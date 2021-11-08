@@ -3,7 +3,7 @@
 Comandos úteis para o GitHub
 
 ```
-- **git init** = inicia o git e é apenas uma vez
+- git init = inicia o git e é apenas uma vez
 - git status = confere tudo que foi alterado na pasta
 - git add = adiciona apenas o arquivo selecionado
 - git add . = adiciona tudo que está na pasta
