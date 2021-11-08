@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+:root {
+    --main-color: #9ecaed;
+}
+
+.box {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/2568416-paisagem-praia-noite-tropical-vetor.jpg");
+    background-size: cover;
+}
+
+.box-internal {
+    width: 50vh;
+    height: 30vh;
+    padding: 2rem;
+    position:relative;
+    background-color:rgba(3, 12, 14, 0.4);
+    border-radius: 10%;
+    text-align: center;
+    font-size: 1rem;
+}
+.box-internal:hover {
+    transition: all .2s ease-in-out;
+    text-shadow: var(--main-color) 0 0 1.6rem;
+    border-color:var(--main-color);
+    box-shadow: 0 0 4rem var(--main-color);
+}
+
+.box-internal h1 {
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+}
+
+.box-internal ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
