@@ -1,5 +1,6 @@
 # aula-github-vnw
-Aula de Github no Vai na Web - 08/11/2021
+
+## Aula de Github no Vai na Web - 08/11/2021
 
 - git init = inicia o git e é apenas uma vez
 - git status = confere tudo que foi alterado na pasta
