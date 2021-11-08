@@ -1,6 +1,6 @@
-# aula-github-vnw
+# Aula de GitHub no Vai na Web - 08/11/2021
 
-## Aula de Github no Vai na Web - 08/11/2021
+Comandos úteis para o GitHub
 
 - git init = inicia o git e é apenas uma vez
 - git status = confere tudo que foi alterado na pasta
